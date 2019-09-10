@@ -8,4 +8,5 @@ func main(){
 	a<-5
 	v:=<-a
 	fmt.Println(v)
+	fmt.Println("hello go")
 }
